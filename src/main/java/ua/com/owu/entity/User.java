@@ -11,7 +11,7 @@ import java.util.List;
 
 @Entity
 public class User implements UserDetails {
-
+///////////////I'm Senior
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
