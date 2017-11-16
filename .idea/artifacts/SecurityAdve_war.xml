@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SecurityAdve:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SecurityAdve-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="SecurityAdve:war exploded" />
+    </root>
+  </artifact>
+</component>
